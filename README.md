@@ -18,6 +18,10 @@ import psutil
 from tabulate import tabulate
 from scapy.layers.inet import IP
 
+If the installation "pip install psutil", does not work or use another module: sudo apt-get install python3-(module)
+
+Exemple : sudo apt-get install python3-psutil
+
 Start programm on linux : python3 iftop.py
 
 On Windows start : iftop.exe
