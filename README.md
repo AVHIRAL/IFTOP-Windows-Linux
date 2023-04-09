@@ -18,7 +18,7 @@ import psutil
 from tabulate import tabulate
 from scapy.layers.inet import IP
 
-If the installation "pip install psutil", does not work or use another module: sudo apt-get install python3-(module)
+If the installation "pip3 install psutil", does not work or use another module: sudo apt-get install python3-(module)
 
 Exemple : sudo apt-get install python3-psutil
 
