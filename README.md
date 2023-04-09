@@ -20,7 +20,7 @@ from scapy.layers.inet import IP
 
 Start programm on linux : python3 iftop.py
 
-On Windows start iftop.exe
+On Windows start : iftop.exe
 
 IMPORTANT FOR WINDOWS INSTALL NCAP : https://npcap.com/dist/npcap-1.73.exe
 
