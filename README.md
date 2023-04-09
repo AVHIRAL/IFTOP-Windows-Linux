@@ -21,3 +21,4 @@ Start programm on linux : python3 iftop.py
 On Windows start iftop.exe
 
 AVHIRAL-TE@M 2023, coded by David PILATO.
+Donate PAYPAL : davidp8686@gmail.com
