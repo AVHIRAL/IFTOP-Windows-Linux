@@ -25,8 +25,12 @@ Exemple : sudo apt-get install python3-psutil
 Start programm on linux : python3 iftop.py
 
 On Windows start : iftop.exe
-
 IMPORTANT FOR WINDOWS INSTALL NCAP : https://npcap.com/dist/npcap-1.73.exe
+
+########"################## IFTOP2.PY ###############################
+You can now enter an IP address and a custom Port and start the scan.
+To start iftop2: python iftop2.py or python3 iftop2.py
+#####################################################################
 
 AVHIRAL-TE@M 2023, coded by David PILATO.
 Donate PAYPAL : davidp8686@gmail.com
