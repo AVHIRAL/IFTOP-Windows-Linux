@@ -33,7 +33,7 @@ You can now enter an IP address and a custom Port and start the scan.
 
 To start iftop2: python iftop2.py or python3 iftop2.py
 
-#####################################################################
+###################################################################
 
 AVHIRAL-TE@M 2023, coded by David PILATO.
 Donate PAYPAL : davidp8686@gmail.com
