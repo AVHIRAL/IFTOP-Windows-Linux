@@ -35,5 +35,4 @@ To start iftop2: python iftop2.py or python3 iftop2.py
 
 ###################################################################
 
-AVHIRAL-TE@M 2023, coded by David PILATO.
-Donate PAYPAL : davidp8686@gmail.com
+AVHIRAL-TE@M 2023, coded by David PILATO. Donate PAYPAL : contact@avhiral.com
